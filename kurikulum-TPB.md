@@ -13,13 +13,11 @@ Mempelajari **kalkulus** sebagai dasar ilmu untuk memperlajari matematika lebih 
 - fungsi transenden
 - teknik pengintegralan.
 
-**Pustaka dan sumber belajar**
+```
+Pustaka
 – Dale Verberg, Edwin J. Purcell, Steven E. Rigdon, Calculus, 9th Edition, Pearson Prentice Hall, 2007.
 – George B. Thomas, Jr., Maurice D. weir, Joel R. Hass, Thomas Calculus, 12th edition, Pearson, 2010.
-
-Penilaian
-Tugas (Projek, PR dan Kuis) UTS dan UAS.
-
+```
 
 #### MA1201 Matematika IIA (4 SKS)
 *semester 2*
@@ -34,12 +32,11 @@ Mempelajari **kalkulus** sebagai dasar ilmu untuk memperlajari matematika lebih 
 - integral lipat dua
 - persamaan diferensial biasa orde satu dan dua.
 
-**Pustaka**
+```
+Pustaka
 – Dale Verberg, Edwin J. Purcell, Steven E. Rigdon, Calculus, 9th Edition, Pearson Prentice Hall, 2007.
 – George B. Thomas, Jr., Maurice D. weir, Joel R. Hass, Thomas Calculus, 12th edition, Pearson, 2010.
-
-Penilaian
-Tugas (Projek, PR dan Kuis) UTS dan UAS.
+```
 
 ---
 
@@ -75,9 +72,6 @@ Pustaka
 Halliday, D. Resnick,, R., and Walker, J., Principle of Physics 9th ed. Extended, John Wiley & Sons, 2011, International student version.
 ```
 
-Penilaian
-Quis, PR, RBL, Praktikum, UTS dan UAS
-
 #### FI1201 Fisika IIA (4 SKS)
 *semester 2*
 
@@ -95,11 +89,9 @@ Quis, PR, RBL, Praktikum, UTS dan UAS
 - Fisika Atom
 
 ```
+Pustaka
 Halliday, D. Resnick,, R., and Walker, J., Principle of Physics 9th ed. Extended, John Wiley & Sons, 2011, International student version.
 ```
-
-Penilaian
-Quis, PR, RBL, Praktikum, UTS dan UAS
 
 ---
 
@@ -132,9 +124,6 @@ Pustaka
 J. E. Brady, F. A. Senese and N D Jespersen, Chemistry, 6th edition, Jhon Wiley and Sons Inc, 2010.
 ```
 
-Penilaian
-10% Praktikum, 45% UTS dan 45% UAS
-
 #### KI1201 Kimia Dasar IIA (3 SKS)
 *semester 2*
 
@@ -148,12 +137,10 @@ Penilaian
 - reaksi nuklir
 - senyawa organik dan biokimia
 
+```
 Pustaka
 J. E. Brady, F. A. Senese and N D Jespersen, Chemistry, 6th edition, Jhon Wiley and Sons Inc, 2010.
-
-Penilaian
-10% Praktikum, 45% UTS dan 45% UAS
-
+```
 ---
 
 #### KU1101 Pengantar Rekayasa dan Desain 1 (2 SKS)
@@ -166,10 +153,12 @@ Penilaian
 - motivasi belajar pada tingkat lanjut
 - pengetahuan tentang isu kontemporer
 
+```
 Pustaka
 • Philip Kosky et al., Exploring Engineering : An Introduction to Engineering and Design, Akademic Press, 2010.
 • Saeed Moaveni, Engineering Fundamentals :An Introduction to Engineering, Cengage Learning, 2011
 • Holtzaplle & Reece, Foundations of Engineering, McGraw-Hill, 2003
+```
 
 ---
 
@@ -179,8 +168,12 @@ Pustaka
 **Materi :**
 Pada kuliah ini mahasiswa dibekali pengetahuan tentang teori dan praktek olahraga meliputi kesehatan, kebugaran dan gizi olahraga. Prinsip-prinsip pelatihan, latihan kondisi fisik dan berbagai macam game cabang olah raga.
 
+```
 Pustaka
 Giriwijoyo, S., Y.S. dkk., 2005, Manusia dan Olahraga, Kerja sama ITB FPOK UPI Bandung, Penerbit ITB.
+```
+
+---
 
 #### KU1011 Tata Tulis Karya Ilmiah (2 SKS)
 *semester 2*
@@ -196,11 +189,12 @@ Giriwijoyo, S., Y.S. dkk., 2005, Manusia dan Olahraga, Kerja sama ITB FPOK UPI B
 - komponen karya tulis ilmiah
 - serta konvensi naskah
 
+```
 Pustaka
 Sosio Komunikasi, KK Ilmu Kemanusiaan, FSRD-ITB 2006 Metode Penulisan Ipteks. Bandung Penerbit ITB
+```
 
-Penilaian
-Kehadiran, UTS, UAS, Makalah dan Tugas dengan bobot A >=76 AB = 72-75 B = 68-71 BC = 64-67 C = 60-63 D = 56-59 dan E <= 56
+---
 
 #### KU1024 Bahasa Inggris
 *semester 1*
