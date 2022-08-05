@@ -6,6 +6,7 @@
 *semester 1*
 
 Mempelajari **kalkulus** sebagai dasar ilmu untuk memperlajari matematika lebih lanjut.
+
 **Materi :**
 - fungsi dan limit
 - turunan dan penggunaannya
@@ -23,6 +24,7 @@ Pustaka
 *semester 2*
 
 Mempelajari **kalkulus** sebagai dasar ilmu untuk memperlajari matematika lebih lanjut.
+
 **Materi :**
 - teknik pengintegralan
 - deret tak hingga
